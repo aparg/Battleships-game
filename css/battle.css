@@ -1,0 +1,21 @@
+#start{
+    text-align: right;
+}
+
+.button{
+    position : absolute;
+    right : 20%;
+}
+
+h1{
+    color : red;
+}
+
+.divider{
+    text-align: center;
+}
+
+img{
+    height: 35px;
+    width: 35px;
+}
